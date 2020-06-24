@@ -112,6 +112,9 @@ a:hover{
 	text-align:center;
 	flex:1;
 }
+.contact{
+	padding:60px 0;
+}
 #address{
 	background-color: #40264D;
 	color:#fff;
