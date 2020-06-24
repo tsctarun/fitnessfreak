@@ -17,7 +17,6 @@
 	display:flex;
 	flex-wrap:wrap;
 	justify-content: center;
-	align-items: stretch;
 	list-style-type: none;
 }
 .nav{
@@ -25,7 +24,7 @@
 	padding-top:10px;
 	text-align:center;
 	text-decoration:none;
-	flex:2;
+	width:300px;
 }
 a{
 	text-decoration: none;
@@ -65,8 +64,8 @@ a:hover{
 	background-color:#BAF774;
 	border:2px solid green;
 	color:#ffffff;
-	padding-top:48px;
-	font-size:36px;
+	padding-top:30px;
+	font-size:35px;
 	text-align:center;
 	flex:1;
 }
@@ -93,7 +92,7 @@ a:hover{
 	border:2px solid black;
 	color:#fff;
 	line-height: 25px;
-	padding:55px 25px;
+	padding:50px 25px;
 	text-align:center;
 	flex:1;
 }
@@ -118,6 +117,7 @@ a:hover{
 	color:#fff;
 	line-height: 35px;
 	padding:20px;
+	margin-bottom: 0;
 	text-align:center;
 }
 .icon{
