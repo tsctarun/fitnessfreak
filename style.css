@@ -108,7 +108,7 @@ a:hover{
 	background-color: #FCEFBD;
 	border:2px solid black;
 	line-height: 30px;
-	padding:50px 10px;
+	padding:50px 10px 20px;
 	text-align:center;
 	flex:1;
 }
